@@ -6,7 +6,7 @@ import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class MathTest2 {
+public class Maths2Test {
 
     private IMaths iMaths;
     @Before

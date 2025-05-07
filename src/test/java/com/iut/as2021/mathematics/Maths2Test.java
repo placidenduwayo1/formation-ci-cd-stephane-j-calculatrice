@@ -94,6 +94,4 @@ public class Maths2Test {
         //Then
         Assert.assertEquals(200.0, result);
     }
-
-
 }
